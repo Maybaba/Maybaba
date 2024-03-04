@@ -1,5 +1,5 @@
 ### Hellow there 👋
-![snowsquirrel](https://github.com/Maybaba/Maybaba/assets/161430857/11a80610-f002-4ecf-bc19-c63284056c94)
+![snowcat](https://github.com/Maybaba/Maybaba/assets/161430857/012cffcc-e04a-4ac7-8c39-71752f5471e7)
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="img.shields.io/badge/javascript-#DAF7A6?st&logo=plastic&logoColor=#F7DF1E"/></a>
 <!-- reference
