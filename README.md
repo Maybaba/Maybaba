@@ -1,5 +1,7 @@
 ### Hellow there 👋
 ![snowcat](https://github.com/Maybaba/Maybaba/assets/161430857/012cffcc-e04a-4ac7-8c39-71752f5471e7)
+<br>
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="img.shields.io/badge/javascript-#DAF7A6?st&logo=plastic&logoColor=#F7DF1E"/></a>
 <!-- reference
