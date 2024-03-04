@@ -1,4 +1,6 @@
 ### Hellow there 👋
+![겨울논밭](https://github.com/Maybaba/Maybaba/assets/161430857/d9d9a751-6bc3-4bcd-8a44-cd89d003231f)
+
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 <img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
