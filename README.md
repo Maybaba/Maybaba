@@ -1,6 +1,7 @@
 ### Hellow there 👋
-https://media.giphy.com/media/LTYT5GTIiAMBa/giphy.gif?cid=790b7611wbp2vs6a4uwvbarmxqcq2om5ie7c7waizb9qzten&ep=v1_gifs_trending&rid=giphy.gif&ct=g
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="img.shields.io/badge/javascript-#DAF7A6?st&logo=plastic&logoColor=#F7DF1E"/></a>
 <!-- reference
 https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45
