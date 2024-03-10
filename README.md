@@ -22,7 +22,11 @@
 
  <!-- my status -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Maybaba&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maybaba&layout=compact" alt="top languages" />
+</p> 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maybaba&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
 </p>
 
 <br/><br/>
