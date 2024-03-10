@@ -23,6 +23,11 @@
 </p>
 
 <!-- footer -->
+<p align ="center">
+  <img src = "https://capsule-render.vercel.app/api?type=rounded&color=0:99CCFF,100:000033&height=70&section=footer&text=𓇼%20⋆｡˚%20𓆝%20⋆｡˚%20𓇼%20&fontSize=20&" alt="Footer">
+</p>
+<img src=">
+
 
 
 
