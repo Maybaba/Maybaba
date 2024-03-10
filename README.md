@@ -1,17 +1,32 @@
-### Hellow there 👋 
-![겨울논밭](https://github.com/Maybaba/Maybaba/assets/161430857/d9d9a751-6bc3-4bcd-8a44-cd89d003231f)
+
+<!-- header -->
+<p align ="center">
+  <img src = "https://capsule-render.vercel.app/api?type=rounded&color=0:FFCCFF,100:FF6699&height=70&section=header&text=༼つ◕_◕༽つ☕️🍪🍫%20&fontSize=20&" alt="Header">
+</p>
 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
-<img src="https://capsule-render.vercel.app/api?type=wave&color=random&height=높이&section=footer&text=텍스트&fontSize=텍스트크기" />
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="img.shields.io/badge/javascript-#DAF7A6?st&logo=plastic&logoColor=#F7DF1E"/></a>
-<!-- reference
-https://80000coding.oopy.io/865f4b2a-5198-49e8-a173-0f893a4fed45
-https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
-https://github.com/maxam2017/productive-box
--->
+<!-- mamama img -->
+<p align ="center">
+<img src = "https://github.com/Maybaba/Maybaba/assets/161430857/db59b580-ff23-4670-8a30-f29c8c80f75a">
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maybaba&show_icons=true&theme=radical)
+<!-- badges -->
+<p align ="center">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"alt="HTML5 badge">
+</p>
+
+
+
+ <!-- my status -->
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Maybaba&show_icons=true&theme=radical" alt="Anurag's GitHub stats">
+</p>
+
+<!-- footer -->
+
+
+
+
 
 <!--
 **Maybaba/Maybaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
