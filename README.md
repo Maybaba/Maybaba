@@ -17,8 +17,14 @@
 
 <!-- badges -->
 <p align ="center">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"alt="HTML5 badge">
-  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"alt="css3 badge"> 
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=HTML5&logoColor=white"alt="HTML5 badge">
+  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=CSS3&logoColor=white"alt="css3 badge"> 
+  <img src="https://img.shields.io/badge/javascript-1572B6?style=flat&logo=javascript&logoColor=white"alt="javascript badge"> 
+  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white" alt="Java badge">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL badge">
+
+
+
 </p>
 
  <!-- my status -->
