@@ -20,12 +20,17 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=HTML5&logoColor=white"alt="HTML5 badge">
   <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=CSS3&logoColor=white"alt="css3 badge"> 
   <img src="https://img.shields.io/badge/javascript-1572B6?style=flat&logo=javascript&logoColor=white"alt="javascript badge"> 
-  <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white" alt="Java badge">
+<!--   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=&logoColor=white" alt="Java badge"> -->
+ <img src="https://camo.githubusercontent.com/425eb0343d89f090ebf9b13d592d2f421bd599cca7efa4f2c4bed59ff4757c42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c6174266c6f676f3d436f6e64612d466f726765266c6f676f436f6c6f723d7768697465" alt="Java badge">
+
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL badge">
+ 
 
 
 
 </p>
+
+
 
  <!-- my status -->
 <p align="center">
@@ -48,7 +53,13 @@
 <!-- footer -->
 <p align ="center">
   <img src = "https://capsule-render.vercel.app/api?type=waving&color=0:000033,50:0099FF,100:66FFFF&height=120&section=footer&text=𓇼%20⋆｡˚%20𓆝%20⋆｡˚%20𓇼%20&fontSize=40&&fontColor=FFFFFF&animation=twinkling&stroke=CCFFFF&strokeWidth=3" alt="Footer">
-  
+
+ <!-- not yet -->
+ <p align ="center">
+  <img src="https://img.shields.io/badge/unity-000000?style=flat&logo=unity&logoColor=white" alt="Unity badge">  
+  <img src="https://img.shields.io/badge/c%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C# badge">
+
+ </p>
 
 <!--
 **Maybaba/Maybaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
