@@ -15,22 +15,28 @@
 
 ## 
 
-<!-- badges -->
-<p align ="center">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=HTML5&logoColor=white"alt="HTML5 badge">
-  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=CSS3&logoColor=white"alt="css3 badge"> 
-  <img src="https://img.shields.io/badge/javascript-1572B6?style=flat&logo=javascript&logoColor=white"alt="javascript badge"> 
-<!--   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=&logoColor=white" alt="Java badge"> -->
- <img src="https://camo.githubusercontent.com/425eb0343d89f090ebf9b13d592d2f421bd599cca7efa4f2c4bed59ff4757c42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c6174266c6f676f3d436f6e64612d466f726765266c6f676f436f6c6f723d7768697465" alt="Java badge">
-
+<p align="center">
+  <strong>Backend</strong><br>
+  <img src="https://camo.githubusercontent.com/425eb0343d89f090ebf9b13d592d2f421bd599cca7efa4f2c4bed59ff4757c42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c6174266c6f676f3d436f6e64612d466f726765266c6f676f436f6c6f723d7768697465" alt="Java badge">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring badge">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL badge">
- 
+  <img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white" alt="MariaDB badge">
+  <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white" alt="Oracle badge">
+</p>
 
+<hr>
 
+<p align="center">
+  <strong>Frontend</strong><br>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=HTML5&logoColor=white" alt="HTML5 badge">
+  <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=CSS3&logoColor=white" alt="css3 badge"> 
+  <img src="https://img.shields.io/badge/javascript-1572B6?style=flat&logo=javascript&logoColor=white" alt="javascript badge"> 
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" alt="React badge">
+</p>
 
 </p>
 
-
+<br/><br/>
 
  <!-- my status -->
 <p align="center">
