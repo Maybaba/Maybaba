@@ -6,7 +6,7 @@
 
 > <strong style="color: #FF5733;">Final Spring Full-Stack Project:</strong><br>
 > [FOODIETREE Repositories](https://github.com/orgs/FOODIETREE/repositories)<br>
-> <span style="color: #808080;">Food Resque O2O flatform Web Service</span>
+> <span style="color: #808080;">Food Resque O2O Platform Web Service</span>
 
 > <strong style="color: #FF5733;">Mid Spring Project:</strong><br>
 > [Full-Stack Mini Project 2](https://github.com/full-stack-mini-project-2)<br>
