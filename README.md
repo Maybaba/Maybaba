@@ -1,6 +1,11 @@
 
-## # What's going on ?.?
-[☻ ☹︎ Mood Crawler](git@github.com:Maybaba/colour.git)
+
+<p align="center">
+<a href="https://maybaba.github.io"style="text-decoration: none; color: inherit;">[ h e  l l  o _ w o   r l d ]</a>
+</p>
+
+## # What's going on ?
+[☻ ☹︎ Mood Crawler](https://github.com/Maybaba/colour)
 <!-- My Projects -->
 ## # Team Projects
 
@@ -19,6 +24,7 @@
 > <strong style="color: #FF5733;">JS Team Project:</strong><br>
 > [Hardest Game](https://github.com/js-HARDESTGAME)<br>
 > <span style="color: #808080;">A challenging JavaScript game developed as part of a team project.</span>
+
 
 <br>
 <!-- lofi playlist -->
